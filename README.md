@@ -2,7 +2,7 @@
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a href="https://github.com/goncl/DevLinks/blob/main/assets/assets/DesignApp.png">Estude esse projeto em formato de vídeo clicando aqui.</a>
+<img alt="License" src="https://github.com/goncl/DevLinks/blob/main/assets/assets/DesignApp.png">
 </p>
 
 <p align="center">
